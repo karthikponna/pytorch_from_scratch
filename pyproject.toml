@@ -9,6 +9,7 @@ dependencies = [
     "ipywidgets>=8.1.7",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
+    "pandas>=2.3.2",
     "python-dotenv>=1.1.1",
     "torch>=2.7.1",
     "torchvision>=0.22.1",
